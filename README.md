@@ -1,6 +1,6 @@
 # Leadership Ratio Benchmark
 
-Is your engineering org top-heavy? Compare your manager-to-senior-IC split against a real peer baseline from 3,100+ engineering leaders across Central Europe.
+Is your engineering org top-heavy? Count your managers and senior ICs, and get the one structural question your split should prompt. Version 1.1 no longer scores you against the community's own composition: a borrowed ratio was the wrong yardstick.
 
 From the [Engineering Leaders Community](https://www.engineeringleaders.io/).
 
